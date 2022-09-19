@@ -9,6 +9,7 @@ The goal of this assignement was to: add error messages.
 <li>These messages can appear right when you render the page, and will disappear in real time.</li>
 <br><br>
 Preview of error messages:
-
+<img src="https://github.com/Taylor-Klar/More-Forms-React/blob/main/Incorrect%20-%20More%20Forms.png">
 <br><br>
 Preview of zero error messages:
+<img src="https://github.com/Taylor-Klar/More-Forms-React/blob/main/Correct%20-%20More%20Forms.png">
