@@ -8,8 +8,10 @@ The goal of this assignement was to: add error messages.
 <li>The passwords must match and be at least 8 characters.</li>
 <li>These messages can appear right when you render the page, and will disappear in real time.</li>
 <br><br>
-Preview of error messages:
+<h1>Preview of error messages:</h1>
+<br>
 <img src="https://github.com/Taylor-Klar/More-Forms-React/blob/main/Incorrect%20-%20More%20Forms.png">
 <br><br>
-Preview of zero error messages:
+<h1>Preview of zero error messages:</h1>
+<br>
 <img src="https://github.com/Taylor-Klar/More-Forms-React/blob/main/Correct%20-%20More%20Forms.png">
