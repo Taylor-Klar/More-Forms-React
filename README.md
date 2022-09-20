@@ -1,7 +1,7 @@
 # More-Forms-React
 This was created on 08/11/22.
 <br><br>
-The goal of this assignement was to: add error messages.
+The goal of this assignment was to: add error messages.
 <br>
 <li>If the First Name or Last Name is less than 2 characters, output an error message saying that field must be at least 2 characters.</li>
 <li>The e-mail is less than 5 characters, say the field must be at least 5 characters.</li>
